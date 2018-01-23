@@ -1,4 +1,4 @@
-# Polymorphism
+# Poly World - A polymorphism and inheritance world simulator
 
 
 Implemented nheritance and polymorphism with 8 various classes. Use of classes through various unique character messages depending on the actions the classes decide to do. Each class has a unique message but only some classes can perform actions such as pay taxes. A
