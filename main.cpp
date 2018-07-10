@@ -15,9 +15,8 @@
 #include "Werewolf.h"
 /*
 Andrew Tran
-Unit 6: Inheritance and Polymorphism
-ICS4U
-Mr. Trink
+Inheritance and Polymorphism
+
 Description: a hierarchy of citizens that inherit functions from a base class.
 Another derived class that inherits from both the citizen and wolf base class.
 Citizens can pay taxes and speak.
